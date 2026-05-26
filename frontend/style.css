@@ -51,7 +51,7 @@ nav {
 .hero {
     background:
         linear-gradient(rgba(26,15,10,0.7), rgba(26,15,10,0.9)),
-        url('img/theatrHero.jpg')
+        url('img/театр.jpg')
         center / cover no-repeat;
     min-height: 480px;
     display: flex;
